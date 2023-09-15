@@ -1,0 +1,95 @@
+---
+id: xy11-91
+name: Ambipom
+supertype: Pokémon
+subtypes:
+- Stage 1
+hp: '90'
+types:
+- Colorless
+evolvesFrom: Aipom
+attacks:
+- name: Furry Chance
+  cost:
+  - Colorless
+  convertedEnergyCost: 1
+  damage: 20+
+  text: Discard the top card of your opponent's deck. If that card is an Energy card,
+    this attack does 60 more damage.
+- name: Double Hit
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 3
+  damage: 50×
+  text: Flip 2 coins. This attack does 50 damage times the number of heads.
+weaknesses:
+- type: Fighting
+  value: "×2"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: xy11
+  name: Steam Siege
+  series: XY
+  printedTotal: 114
+  total: 116
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: STS
+  releaseDate: 2016/08/03
+  updatedAt: 2019/04/10 19:59:00
+  images:
+    symbol: https://images.pokemontcg.io/xy11/symbol.png
+    logo: https://images.pokemontcg.io/xy11/logo.png
+number: '91'
+artist: Atsuko Nishida
+rarity: Uncommon
+flavorText: To eat, it deftly shucks nuts with its two tails. It rarely uses its arms
+  now.
+nationalPokedexNumbers:
+- 424
+legalities:
+  unlimited: Legal
+  expanded: Legal
+images:
+  small: https://images.pokemontcg.io/xy11/91.png
+  large: https://images.pokemontcg.io/xy11/91_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/xy11-91
+  updatedAt: 2023/09/15
+  prices:
+    normal:
+      low: 0.02
+      mid: 0.13
+      high: 2.0
+      market: 0.09
+      directLow: 0.04
+    reverseHolofoil:
+      low: 0.12
+      mid: 0.33
+      high: 2.93
+      market: 0.33
+      directLow: 0.23
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/xy11-91
+  updatedAt: 2023/09/15
+  prices:
+    averageSellPrice: 0.12
+    lowPrice: 0.02
+    trendPrice: 0.09
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.41
+    reverseHoloLow: 0.2
+    reverseHoloTrend: 0.43
+    lowPriceExPlus: 0.02
+    avg1: 0.3
+    avg7: 0.11
+    avg30: 0.07
+    reverseHoloAvg1: 0.41
+    reverseHoloAvg7: 0.47
+    reverseHoloAvg30: 0.38

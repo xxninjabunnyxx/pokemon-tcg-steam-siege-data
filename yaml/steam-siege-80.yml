@@ -1,0 +1,98 @@
+---
+id: xy11-80
+name: Klefki
+supertype: Pokémon
+subtypes:
+- Basic
+hp: '70'
+types:
+- Fairy
+abilities:
+- name: Wonder Lock
+  text: Once during your turn (before your attack), if this Pokémon is on your Bench,
+    you may discard all cards attached to this Pokémon and attach it to 1 of your
+    Pokémon as a Pokémon Tool card. Prevent any damage done to the Pokémon this card
+    is attached to by attacks from your opponent's Mega Evolution Pokémon. If this
+    card is attached to a Pokémon, discard this card at the end of your opponent's
+    turn.
+  type: Ability
+attacks:
+- name: Fairy Wind
+  cost:
+  - Fairy
+  - Colorless
+  convertedEnergyCost: 2
+  damage: '30'
+  text: ''
+weaknesses:
+- type: Metal
+  value: "×2"
+resistances:
+- type: Darkness
+  value: "-20"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: xy11
+  name: Steam Siege
+  series: XY
+  printedTotal: 114
+  total: 116
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: STS
+  releaseDate: 2016/08/03
+  updatedAt: 2019/04/10 19:59:00
+  images:
+    symbol: https://images.pokemontcg.io/xy11/symbol.png
+    logo: https://images.pokemontcg.io/xy11/logo.png
+number: '80'
+artist: Saya Tsuruta
+rarity: Uncommon
+flavorText: It never lets go of a key that it likes, so people give it the keys to
+  vaults and safes as a way to prevent crime.
+nationalPokedexNumbers:
+- 707
+legalities:
+  unlimited: Legal
+  expanded: Legal
+images:
+  small: https://images.pokemontcg.io/xy11/80.png
+  large: https://images.pokemontcg.io/xy11/80_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/xy11-80
+  updatedAt: 2023/09/15
+  prices:
+    normal:
+      low: 0.02
+      mid: 0.2
+      high: 3.0
+      market: 0.12
+      directLow: 0.12
+    reverseHolofoil:
+      low: 0.2
+      mid: 0.45
+      high: 1.5
+      market: 0.48
+      directLow: 0.25
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/xy11-80
+  updatedAt: 2023/09/15
+  prices:
+    averageSellPrice: 0.09
+    lowPrice: 0.02
+    trendPrice: 0.11
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.37
+    reverseHoloLow: 0.02
+    reverseHoloTrend: 0.31
+    lowPriceExPlus: 0.02
+    avg1: 0.03
+    avg7: 0.12
+    avg30: 0.07
+    reverseHoloAvg1: 0.3
+    reverseHoloAvg7: 0.45
+    reverseHoloAvg30: 0.44
